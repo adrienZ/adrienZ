@@ -1,19 +1,19 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrienZ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**adrienZ/adrienZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+  <td>
+<p align="center">
+  <samp>
+    Front-end lover, Fullstack wannabe, always bet on javascript.<br/>
+    <a href="https://adrienzaganelli.com/">Website</a> .
+    <a href="https://twitter.com/adri_zag">Twitter</a> .
+    <a href="https://www.linkedin.com/in/adrienzaganelli/">LinkedIn</a>
+  </samp>
+</p>
+</td>
+    <td>
+<p align="center">
+  <a href="https://nuxters.nuxt.com/adrienZ"><img src="https://nuxters.nuxt.com/adrienZ/__og_image__/og.png" alt="adrienZ on Nuxters" width="300" /></a>
+</p>
+      </td>
+</tr>
+</table>
