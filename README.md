@@ -4,6 +4,7 @@
 <p align="center">
   <samp>
     Front-end lover, Fullstack wannabe, always bet on javascript.<br/>
+    <a href="https://my-pull-requests-adrien-z.nuxt.dev/">Contributions</a> .
     <a href="https://adrienzaganelli.com/">Website</a> .
     <a href="https://twitter.com/adri_zag">Twitter</a> .
     <a href="https://www.linkedin.com/in/adrienzaganelli/">LinkedIn</a>
